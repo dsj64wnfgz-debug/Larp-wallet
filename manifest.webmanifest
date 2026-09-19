@@ -1,9 +1,8 @@
 {
   "name": "Phantom",
   "short_name": "Phantom",
-  "description": "Phantom — a learning recreation (TEST demo).",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/Larp-wallet/",
+  "scope": "/Larp-wallet/",
   "display": "standalone",
   "display_override": [
     "fullscreen",
